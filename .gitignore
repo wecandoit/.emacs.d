@@ -1,0 +1,14 @@
+auto-safe-list/
+el-get/
+elpa/
+tutorial/
+backups/
+
+*.elc
+*~
+*#
+.#*
+.smex-items
+ido.last
+places
+
